@@ -1,4 +1,9 @@
+
+
 LCD adapter 
+Copyright 2012 Michael Paholski 
+Yetihacks
+
 
 INSTALLATION The design is saved as an EAGLE project. EAGLE PCB design software is available from www.cadsoftusa.com free for non-commercial use. To use this project download it and place the directory containing these files into the "eagle" directory on your computer. Then open EAGLE and navigate to Projects -> eagle -> Eleven.
 
